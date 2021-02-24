@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+}
+
+.err {
+    color: darkred;
+    display: none;
+}
+
+h1 {
+    font-family: Algerian;
+}
+
+#message {
+    padding-right: 300px;
+    padding-left: 300px;
+}

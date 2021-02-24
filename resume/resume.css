@@ -1,0 +1,29 @@
+body {
+    padding-right: 200px;
+    padding-left: 200px;
+}
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 25px;
+    padding-bottom: 0.5px;
+    font-family: "Arial Black";
+}
+
+h4 {
+    font-size: 20px;
+    padding-bottom: 0.5px;
+    font-style: italic;
+}
+
+p {
+    font-family: "Times New Roman";
+    font-size: 15px;
+}
+
+ul {
+    font-size: 15px;
+    font-family: "Times New Roman";
+}
